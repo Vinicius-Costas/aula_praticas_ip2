@@ -13,7 +13,7 @@ public class Porta {
 	void fecha() {
 		aberta = false;
 	}
-	
+	 
 	void pinta (String novaCor) {
 		cor = novaCor; 
 	}
